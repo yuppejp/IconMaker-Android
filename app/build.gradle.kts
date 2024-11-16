@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "jp.yuppe.iconmaker"
-        minSdk = 29
+        minSdk = 26//29
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
